@@ -1,6 +1,6 @@
 ![image alt >](./assets/college-logo.png)
 
-## [Mukularanyam Mahavidyalay, Varanasi](https://www.google.com)
+# [Mukularanyam Mahavidyalay, Varanasi](https://www.google.com)
 
 <br/>
 <br/>
