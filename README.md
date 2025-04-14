@@ -1,4 +1,13 @@
-![image alt >](./assets/college-logo.png)
+<style>
+@media print {
+  .page-break {
+    page-break-before: always;
+  }
+}
+</style>
+
+
+<img style="float: right;" src="./assets/college-logo.png">
 
 # [Mukularanyam Mahavidyalay, Varanasi](https://www.google.com)
 
@@ -19,10 +28,9 @@
     
 <!-- -   Course & Semester -->
     
-<!-- -   Date -->
-    
 
 ----------
+<div class="page-break"></div>
 
 ### **2. Acknowledgement** _(Optional but common)_
 
@@ -194,21 +202,3 @@
 ----------
 
 Let me know if you want a Word or LaTeX template for this structure or help with any specific section.
-
-<style>
-    img[alt$=">"] {
-  float: right;
-}
-
-img[alt$="<"] {
-  float: left;
-}
-
-img[alt$="><"] {
-  display: block;
-  max-width: 100%;
-  height: auto;
-  margin: auto;
-  float: none!important;
-}
-</style>
