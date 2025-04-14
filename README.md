@@ -1,23 +1,24 @@
+![image alt >](./assets/college-logo.png)
 
-# **"Adoption of E-Banking Services Among Different Age Groups: A Comparative Study"**
+## [Mukularanyam Mahavidyalay, Varanasi](https://www.google.com)
 
-----------
+<br/>
+<br/>
 
-### **1. Title Page**
+# Adoption of E-Banking Services Among Different Age Groups: A Comparative Study
 
--   Project Title
+**Shivam Pandey**
+*113223840249*
+17-04-25
+
+
+*Final Course Project*
+*Supervisor: Aakansha Trivedi*
+
     
--   Name
+<!-- -   Course & Semester -->
     
--   Roll Number / Registration Number
-    
--   Course & Semester
-    
--   Supervisor’s Name
-    
--   Institution
-    
--   Date
+<!-- -   Date -->
     
 
 ----------
@@ -192,3 +193,21 @@
 ----------
 
 Let me know if you want a Word or LaTeX template for this structure or help with any specific section.
+
+<style>
+    img[alt$=">"] {
+  float: right;
+}
+
+img[alt$="<"] {
+  float: left;
+}
+
+img[alt$="><"] {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  float: none!important;
+}
+</style>
