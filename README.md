@@ -1,5 +1,5 @@
 
-For your project **"Adoption of E-Banking Services Among Different Age Groups: A Comparative Study"**, a well-structured format is essential to maintain clarity, professionalism, and academic rigor. Below is a recommended structure:
+# **"Adoption of E-Banking Services Among Different Age Groups: A Comparative Study"**
 
 ----------
 
